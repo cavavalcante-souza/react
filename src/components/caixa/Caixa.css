@@ -1,0 +1,21 @@
+  
+  section{
+    max-width: 100%;
+    width: 420px;
+    margin: auto;
+    box-sizing: border-box;
+    color: #61dafb;
+    padding: 50px;
+    background-color: #282c34;
+    border-radius: 10px;
+  }
+  
+  section .main{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  section .main .buttons{
+    display: flex;
+    flex-direction: column;
+  }

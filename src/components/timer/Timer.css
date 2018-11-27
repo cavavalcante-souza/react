@@ -1,0 +1,8 @@
+  section .main .timer{
+    display: flex;
+    font-size: 6.3rem;
+  }
+  
+  section .main .timer span:first-child::after{ 
+    content: ':';
+  }
